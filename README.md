@@ -6,6 +6,17 @@ Front-end architecture, Aurelia 2 core team, full-stack delivery. Systems thinki
 
 ---
 
+### Stuff I've Built
+<!-- NOW-SHIPPING:START -->
+- Yardvertising: https://yardvertising.com
+- Yawntales: https://yawntales.com
+- TidyFork: https://tidyfork.com
+- Reviewey: https://reviewey.com.au
+- Regexbattle: https://regexbattle.com
+<!-- NOW-SHIPPING:END -->
+
+---
+
 ## Selected work
 - **Modern front-end platforms**: design systems, component libraries, accessibility-first UI, type-safe patterns at scale.
 - **Migrations and rescues**: Aurelia 1 to 2 migrations, legacy JS to modern, performance overhauls, flaky build pipelines fixed.
@@ -34,11 +45,3 @@ Front-end architecture, Aurelia 2 core team, full-stack delivery. Systems thinki
 📫 dwaynecharrington@gmail.com
 
 ---
-
-### Now shipping
-<!-- NOW-SHIPPING:START -->
-- Yardvertising: https://yardvertising.com
-- Yawntales: https://yawntales.com
-- TidyFork: https://tidyfork.com
-- Reviewey: https://reviewey.com.au
-<!-- NOW-SHIPPING:END -->
