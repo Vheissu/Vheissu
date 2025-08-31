@@ -1,47 +1,42 @@
 # Dwayne Charrington
 
-Front-end architecture, Aurelia 2 core team, full-stack delivery. Systems thinking, performance budgets, clean code.
-
-**Available for**: front-end leadership, design systems, migrations to Aurelia 2, Tailwind architectures, WordPress dev, Firebase and serverless, AWS-backed apps, complex web apps.
+Front-end architect shipping fast, accessible, boring-in-the-best-way web apps. Aurelia 2 core team. Pragmatic full stack when it moves the needle.
 
 ---
 
-### Stuff I've Built
-<!-- NOW-SHIPPING:START -->
-- Yardvertising: https://yardvertising.com
-- Yawntales: https://yawntales.com
-- TidyFork: https://tidyfork.com
-- Reviewey: https://reviewey.com.au
-- Regexbattle: https://regexbattle.com
-<!-- NOW-SHIPPING:END -->
+## What I do
+- Front-end leadership: design systems, component libraries, clean patterns that scale
+- Migrations and rescues: Aurelia 1 to 2, legacy JS to modern, flaky builds to stable pipelines
+- Product delivery: WordPress and Firebase when it’s right, AWS when it needs teeth
+
+**Available for**: front-end leadership, design systems, Aurelia 2 migrations, Tailwind architectures, WordPress, Firebase, serverless, complex web apps.
 
 ---
 
-## Selected work
-- **Modern front-end platforms**: design systems, component libraries, accessibility-first UI, type-safe patterns at scale.
-- **Migrations and rescues**: Aurelia 1 to 2 migrations, legacy JS to modern, performance overhauls, flaky build pipelines fixed.
-- **Applied full-stack**: Firebase auth and data, AWS Lambda and API Gateway, RDS and Dynamo, WordPress custom development, CI/CD with GitHub Actions.
-
-> Want specifics: see pinned repos below or open a Work Request.
+## Now shipping
+- **Yardvertising** — hyperlocal ads that actually reach neighbours • https://yardvertising.com  
+- **Yawntales** — bedtime story engine for kids and tired parents • https://yawntales.com  
+- **TidyFork** — make messy repos clean and nice • https://tidyfork.com  
+- **Reviewey** — review platform for customers and businesses based on reputation • https://reviewey.com.au  
+- **RegexBattle** — gameified regex practice • https://regexbattle.com
 
 ---
 
-## Capabilities
+## Toolbox
 **Front end**: Aurelia 2, React, Svelte, Vue, Web Components, TypeScript, Tailwind, Vite, Vitest, Playwright  
-**Back end**: Node.js, PHP, AWS Lambda, API Gateway, S3, CloudFront, RDS, DynamoDB, PostgreSQL, MySQL  
-**Platforms**: WordPress, Firebase (Auth, Firestore, Storage, Functions)  
-**Practices**: performance budgets, accessibility, DX tooling, automated tests, CI/CD, docs that teams actually use
+**Back end**: Node.js, PHP, Python, AWS Lambda, API Gateway, S3, CloudFront, RDS, DynamoDB, PostgreSQL, MySQL  
+**Platforms**: WordPress, Firebase, Supabase
+**Practices**: performance budgets, accessibility, DX tooling, automated tests, CI/CD, plain-English docs
 
 ---
 
 ## How I work
-- Clear brief, small milestones, shipped value every week.
-- Architecture first, then code, then documentation.
-- Prefer constraints, measure results, remove complexity.
+- Small milestones, shipped value every week
+- Architecture first, then code, then documentation
+- Prefer constraints, measure results, remove complexity
 
 ---
 
 ## Contact
 📫 dwaynecharrington@gmail.com
 
----
