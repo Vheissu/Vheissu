@@ -20,6 +20,8 @@ Front-end architect shipping fast, accessible, boring-in-the-best-way web apps. 
 - **Reviewey** — review platform for customers and businesses based on reputation • https://reviewey.com.au  
 - **RegexBattle** — gameified regex practice • https://regexbattle.com
 - **Hive Ships** - competitive blockchain battleship • https://hive-ships.com/
+- **Hive Lotto** - blockchain lottery • https://hive-lotto.app
+- **Hive Scratchit** - blockchain scratch cards • https://hive-scratch.com/
 
 ---
 
