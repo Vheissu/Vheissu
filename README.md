@@ -13,12 +13,13 @@ Front-end architect shipping fast, accessible, boring-in-the-best-way web apps. 
 
 ---
 
-## Now shipping
+## Recently shipped
 - **Yardvertising** — hyperlocal ads that actually reach neighbours • https://yardvertising.com  
 - **Yawntales** — bedtime story engine for kids and tired parents • https://yawntales.com  
 - **TidyFork** — make messy repos clean and nice • https://tidyfork.com  
 - **Reviewey** — review platform for customers and businesses based on reputation • https://reviewey.com.au  
 - **RegexBattle** — gameified regex practice • https://regexbattle.com
+- **Hive Ships** - competitive blockchain battleship • https://hive-ships.com/
 
 ---
 
