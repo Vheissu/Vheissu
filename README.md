@@ -13,15 +13,20 @@ Front-end architect shipping fast, accessible, boring-in-the-best-way web apps. 
 
 ---
 
-## Recently shipped
+## Apps shipped
 - **Yardvertising** — hyperlocal ads that actually reach neighbours • https://yardvertising.com  
 - **Yawntales** — bedtime story engine for kids and tired parents • https://yawntales.com  
 - **TidyFork** — make messy repos clean and nice • https://tidyfork.com  
 - **Reviewey** — review platform for customers and businesses based on reputation • https://reviewey.com.au  
-- **RegexBattle** — gameified regex practice • https://regexbattle.com
+- **RegexBattle** — competitive regular expression battle game • https://regexbattle.com
 - **Hive Ships** - competitive blockchain battleship • https://hive-ships.com/
 - **Hive Lotto** - blockchain lottery • https://hive-lotto.app
 - **Hive Scratchit** - blockchain scratch cards • https://hive-scratch.com/
+
+## Open source
+- **Beeline CLI** - terminal CLI for interacting with the Hive blockchain • https://github.com/Vheissu/beeline
+- **Au Rogue** - temrinal CLI for migrating Aurelia 1 to Aurelia 2 apps using smart code mods • https://github.com/Vheissu/au-rogue
+- **HTMS (hyper text media script) - write javascript using HTML tags • https://github.com/Vheissu/htms
 
 ---
 
