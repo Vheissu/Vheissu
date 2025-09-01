@@ -1,6 +1,6 @@
 # Dwayne Charrington
 
-Front-end architect shipping fast, accessible, boring-in-the-best-way web apps. Aurelia 2 core team. Pragmatic full stack when it moves the needle.
+I build front-ends that are fast, accessible, and boring in all the right ways. Aurelia 2 core team. Open source. Systems thinker working from first principles, always collaborating to push the web forward.
 
 ---
 
