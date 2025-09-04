@@ -15,7 +15,8 @@ I build front-ends that are fast, accessible, and boring in all the right ways. 
 
 ## Apps shipped
 - **Yardvertising** — hyperlocal ads that actually reach neighbours • https://yardvertising.com  
-- **Yawntales** — bedtime story engine for kids and tired parents • https://yawntales.com  
+- **Yawntales** — bedtime story engine for kids and tired parents • https://yawntales.com
+- **TryInk** - virtual tattoo try on and design creation • https://tryink.co
 - **TidyFork** — make messy repos clean and nice • https://tidyfork.com  
 - **Reviewey** — review platform for customers and businesses based on reputation • https://reviewey.com.au  
 - **RegexBattle** — competitive regular expression battle game • https://regexbattle.com
@@ -26,7 +27,7 @@ I build front-ends that are fast, accessible, and boring in all the right ways. 
 ## Open source
 - **Beeline CLI** - terminal CLI for interacting with the Hive blockchain • https://github.com/Vheissu/beeline
 - **Au Rogue** - temrinal CLI for migrating Aurelia 1 to Aurelia 2 apps using smart code mods • https://github.com/Vheissu/au-rogue
-- **HTMS (hyper text media script) - write javascript using HTML tags • https://github.com/Vheissu/htms
+- **HTMS** (hyper text media script) - write javascript using HTML tags • https://github.com/Vheissu/htms
 
 ---
 
