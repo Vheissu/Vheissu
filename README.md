@@ -5,11 +5,11 @@ I build front-ends that are fast, accessible, and boring in all the right ways. 
 ---
 
 ## What I do
-- Front-end leadership: design systems, component libraries, clean patterns that scale
+- Front-end: design systems, component libraries, clean patterns that scale
 - Migrations and rescues: Aurelia 1 to 2, legacy JS to modern, flaky builds to stable pipelines
 - Product delivery: WordPress and Firebase when it’s right, AWS when it needs teeth
 
-**Available for**: front-end leadership, design systems, Aurelia 2 migrations, Tailwind architectures, WordPress, Firebase, serverless, complex web apps.
+**Available for**: front-end development, design systems, Aurelia 2 migrations, Tailwind architectures, WordPress, Firebase, serverless, complex web apps.
 
 ---
 
