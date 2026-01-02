@@ -25,6 +25,7 @@ I build front-ends that are fast, accessible, and boring in all the right ways. 
 - **Hive Scratchit** - blockchain scratch cards • https://hive-scratch.com/
 
 ## Open source
+- **Aurelia 2 plugins** - mumerous Aurelia 2 plugins • https://github.com/Vheissu/aurelia2-plugins
 - **Beeline CLI** - terminal CLI for interacting with the Hive blockchain • https://github.com/Vheissu/beeline
 - **Au Rogue** - temrinal CLI for migrating Aurelia 1 to Aurelia 2 apps using smart code mods • https://github.com/Vheissu/au-rogue
 - **HTMS** (hyper text media script) - write javascript using HTML tags • https://github.com/Vheissu/htms
