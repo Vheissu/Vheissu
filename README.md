@@ -20,8 +20,8 @@ I care about clean architecture, predictable delivery, and software that holds u
 ## Apps shipped
 - **Yardvertising** - hyperlocal advertising platform • https://yardvertising.com  
 - **Yawntales** - AI-powered bedtime story platform • https://yawntales.com
-- **Cortex Device List** - Quad Cortex modeller device list app • https://quadcortex.co
-- **Doughmap** - Open source annual expense tracker • https://doughmap.com
+- **Cortex Device List** - Quad Cortex modeller device list app • https://quadcortex.co • https://github.com/Vheissu/cortex-device-list
+- **Doughmap** - Open source annual expense tracker • https://doughmap.com • https://github.com/Vheissu/costmap
 - **TryInk** - virtual tattoo try-on and design creation • https://tryink.co  
 - **TidyFork** - tooling for cleaning and standardising GitHub repositories • https://tidyfork.com  
 - **Reviewey** - reputation-driven reviews platform • https://reviewey.com.au  
