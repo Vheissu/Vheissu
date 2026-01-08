@@ -37,6 +37,7 @@ These are apps I fully built from architecture through to shipping. Some for cli
 ---
 
 ## Open source
+- **ACF Versioned Content Field** - a versionable field for versioned content • https://github.com/Vheissu/acf-versioned-content-field
 - **ACF QR Code Field** - QR code field for Wordpress Advanced Custom Fields • https://github.com/Vheissu/acf-qr-code-field
 - **ACF Country Field** - country field for Wordpress Advanced Custom Fields • https://github.com/Vheissu/acf-country-field
 - **Aurelia 2 plugins** - production-grade plugins and tooling for Aurelia 2 • https://github.com/Vheissu/aurelia2-plugins  
