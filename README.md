@@ -18,6 +18,9 @@ I care about clean architecture, predictable delivery, and software that holds u
 ---
 
 ## Apps shipped
+These are apps I fully built from architecture through to shipping. Some for clients, many for myself because I love to ship.
+
+- **Askbad** - a Q&A platform for the worse advice ever • https://askbad.com
 - **Yardvertising** - hyperlocal advertising platform • https://yardvertising.com  
 - **Yawntales** - AI-powered bedtime story platform • https://yawntales.com
 - **Cortexpresets** - Quad Cortex presets marketplace • https://cortexpresets.com
