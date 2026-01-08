@@ -37,6 +37,8 @@ These are apps I fully built from architecture through to shipping. Some for cli
 ---
 
 ## Open source
+- **ACF QR Code Field** - QR code field for Wordpress Advanced Custom Fields • https://github.com/Vheissu/acf-qr-code-field
+- **ACF Country Field** - country field for Wordpress Advanced Custom Fields • https://github.com/Vheissu/acf-country-field
 - **Aurelia 2 plugins** - production-grade plugins and tooling for Aurelia 2 • https://github.com/Vheissu/aurelia2-plugins  
 - **Beeline CLI** - terminal tooling for interacting with the Hive blockchain • https://github.com/Vheissu/beeline  
 - **Au Rogue** - codemod-based CLI for migrating Aurelia 1 apps to Aurelia 2 • https://github.com/Vheissu/au-rogue  
