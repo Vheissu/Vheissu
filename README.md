@@ -30,6 +30,7 @@ These are apps I fully built from architecture through to shipping. Some for cli
 - **TidyFork** - tooling for cleaning and standardising GitHub repositories • https://tidyfork.com  
 - **Reviewey** - reputation-driven reviews platform • https://reviewey.com.au  
 - **RegexBattle** - competitive regular expression battle game • https://regexbattle.com
+- **Dadline** - a task accountability app that messages your dad if you don't complete a task • https://dadline.app/
 - **Colorshift** - a fun little colour game • https://colorshift.xyz/
 - **Hive Ships** - blockchain-based battleship game • https://hive-ships.com  
 - **Hive Lotto** - blockchain lottery platform • https://hive-lotto.app  
