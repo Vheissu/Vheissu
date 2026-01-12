@@ -31,6 +31,7 @@ These are apps I fully built from architecture through to shipping. Some for cli
 - **Reviewey** - reputation-driven reviews platform • https://reviewey.com.au  
 - **RegexBattle** - competitive regular expression battle game • https://regexbattle.com
 - **Dadline** - a task accountability app that messages your dad if you don't complete a task • https://dadline.app/
+- **Planet Defence** - a game where you protect your planet • https://planet-defense.com/
 - **Colorshift** - a fun little colour game • https://colorshift.xyz/
 - **Hive Ships** - blockchain-based battleship game • https://hive-ships.com  
 - **Hive Lotto** - blockchain lottery platform • https://hive-lotto.app  
