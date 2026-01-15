@@ -61,6 +61,9 @@ Things I’ve built and shipped end to end. Some for clients, many for myself.
 - Colorshift – fast colour matching game  
   https://colorshift.xyz
 
+- Thriftysheet – smart budgeting spreadsheet
+  https://thriftysheet.com/
+
 ---
 
 ## Open source
