@@ -1,6 +1,6 @@
 # Dwayne Charrington
 
-Senior front end engineer who ships end to end products. I work across front end, back end, and infrastructure, and I’m comfortable owning systems long after the first deploy. Core contributor to Aurelia 2, long time open source maintainer, and someone who thinks about systems, not just screens.
+Senior engineer who ships end to end products. I work across front end, back end, and infrastructure, and I’m comfortable owning systems long after the first deploy. Core contributor to Aurelia, long time open source maintainer, and someone who thinks about systems, not just screens.
 
 I care about building software that survives real usage, not just demos.
 
@@ -15,6 +15,7 @@ That usually means:
 - Infrastructure and deployment when it’s needed, not as a separate team
 - Fixing messy legacy systems and modernising them without breaking the business
 - Making pragmatic technical calls instead of chasing trends
+- Choosing boring stable stacks over chasing hype stacks, frameworks and libraries.
 
 Available for senior front end roles, full stack product work, migrations, and systems that need an adult in the room.
 
