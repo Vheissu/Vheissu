@@ -68,6 +68,9 @@ Things I’ve built and shipped end to end. Some for clients, many for myself.
 ---
 
 ## Open source
+- Hive payments Woo - Hive blockchain payments support for Woocommerce
+  https://github.com/Vheissu/hive-payments-woo
+
 - ACF Versioned Content Field  
   https://github.com/Vheissu/acf-versioned-content-field
 
