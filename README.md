@@ -1,6 +1,6 @@
 # Dwayne Charrington
 
-Senior engineer who ships end to end products. I work across front end, back end, and infrastructure, and I’m comfortable owning systems long after the first deploy. Core contributor to Aurelia, long time open source maintainer, and someone who thinks about systems, not just screens.
+Senior engineer who ships end to end products. I work across front end, back end, and infrastructure, and I’m comfortable owning systems long after the first deploy. Core contributor to Aurelia, long time open source maintainer, and someone who thinks about systems, not just screens. I ❤️ open source a lot.
 
 I care about building software that survives real usage, not just demos.
 
@@ -12,6 +12,7 @@ I design and build web products from zero to production, then keep them healthy.
 That usually means:
 - Front end architecture and component systems that don’t rot
 - Full stack work across Node.js, PHP, databases, and APIs
+- Native mobile applications (Android and iOS) using React Native
 - Infrastructure and deployment when it’s needed, not as a separate team
 - Fixing messy legacy systems and modernising them without breaking the business
 - Making pragmatic technical calls instead of chasing trends
