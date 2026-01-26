@@ -24,6 +24,9 @@ Available for senior front end roles, full stack product work, migrations, and s
 ## Apps shipped
 Things I’ve built and shipped end to end. Some for clients, many for myself.
 
+- DroolFinder – A dog collecting Android and iOS app with unique sticker generation, social features and more (contact me to test)
+  https://droolfinder.com
+
 - Askbad – deliberately bad advice, taken seriously  
   https://askbad.com
 
