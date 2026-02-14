@@ -37,6 +37,12 @@ Things I’ve built and shipped end to end. Some for clients, many for myself.
 - Yawntales – AI bedtime stories that parents actually use  
   https://yawntales.com
 
+- Hive Predict - perimutuel prediction platform on the blockchain
+  https://hivepredict.app
+
+- Hive Hand - blockchain Uno
+  https://hivehand.app
+
 - Cortexpresets – Quad Cortex presets marketplace  
   https://cortexpresets.com
 
