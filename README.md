@@ -1,6 +1,6 @@
 # Dwayne Charrington
 
-Senior engineer who ships end to end products. I work across front end, back end, and infrastructure, and I’m comfortable owning systems long after the first deploy. Core contributor to Aurelia, long time open source maintainer, and someone who thinks about systems, not just screens. I ❤️ open source a lot.
+Full-stack engineer who ships end to end products. I work across front end, back end, databases, APIs, mobile and infrastructure, and I'm comfortable owning systems long after the first deploy. Core contributor to Aurelia, long time open source maintainer, and someone who thinks about systems, not just screens. I ❤️ open source a lot.
 
 I care about building software that survives real usage, not just demos.
 
@@ -10,112 +10,126 @@ I care about building software that survives real usage, not just demos.
 I design and build web products from zero to production, then keep them healthy.
 
 That usually means:
-- Front end architecture and component systems that don’t rot
-- Full stack work across Node.js, PHP, databases, and APIs
+- Full stack product development across Node.js, PHP, Python, databases and APIs
+- Front end architecture and component systems that don't rot
 - Native mobile applications (Android and iOS) using React Native
-- Infrastructure and deployment when it’s needed, not as a separate team
+- Infrastructure, CI/CD and deployment as part of the build, not a separate team
 - Fixing messy legacy systems and modernising them without breaking the business
 - Making pragmatic technical calls instead of chasing trends
-- Choosing boring stable stacks over chasing hype stacks, frameworks and libraries.
+- Choosing boring stable stacks over hype stacks, frameworks and libraries
 
-Available for senior front end roles, full stack product work, migrations, and systems that need an adult in the room.
+Available for senior full stack roles, product engineering, migrations, and systems that need an adult in the room.
 
 ---
 
 ## Apps shipped
-Things I’ve built and shipped end to end. Some for clients, many for myself.
+Things I've built and shipped end to end. Some for clients, many for myself.
 
-- DroolFinder – A dog collecting Android and iOS app with unique sticker generation, social features and more (contact me to test)
+- **DroolFinder** — A dog collecting Android and iOS app with unique sticker generation, social features and more (contact me to test)
   https://droolfinder.com
 
-- Askbad – deliberately bad advice, taken seriously  
+- **Askbad** — Deliberately bad advice, taken seriously
   https://askbad.com
 
-- Yardvertising – hyperlocal advertising platform  
+- **Yardvertising** — Hyperlocal advertising platform
   https://yardvertising.com
 
-- Yawntales – AI bedtime stories that parents actually use  
+- **Yawntales** — AI bedtime stories that parents actually use
   https://yawntales.com
 
-- Hive Predict - perimutuel prediction platform on the blockchain
+- **Hive Predict** — Parimutuel prediction platform on the Hive blockchain
   https://hivepredict.app
 
-- Hive Hand - blockchain Uno
+- **Hive Hand** — Blockchain Uno
   https://hivehand.app
 
-- Cortexpresets – Quad Cortex presets marketplace  
+- **Hive Ships** — Blockchain Battleship on the Hive blockchain
+  https://hive-ships.com
+
+- **Hive Lotto** — Blockchain lottery on the Hive blockchain
+  https://hive-lotto.app
+
+- **Cortexpresets** — Quad Cortex presets marketplace
   https://cortexpresets.com
 
-- Cortex Device List – Quad Cortex modeller database  
-  https://quadcortex.co  
+- **Cortex Device List** — Quad Cortex modeller database
+  https://quadcortex.co
   https://github.com/Vheissu/cortex-device-list
 
-- Doughmap – open source yearly expense tracker  
-  https://doughmap.com  
+- **Doughmap** — Open source yearly expense tracker
+  https://doughmap.com
   https://github.com/Vheissu/costmap
 
-- TryInk – virtual tattoo try on and design creation  
+- **TryInk** — Virtual tattoo try on and design creation
   https://tryink.co
 
-- TidyFork – tooling for cleaning up large GitHub orgs  
+- **TidyFork** — Tooling for cleaning up large GitHub orgs
   https://tidyfork.com
 
-- RegexBattle – competitive regex game  
+- **RegexBattle** — Competitive regex game
   https://regexbattle.com
 
-- Dadline – task accountability via social shame  
+- **Dadline** — Task accountability via social shame
   https://dadline.app
 
-- Planet Defence – small arcade game  
+- **Thriftysheet** — Smart budgeting spreadsheet
+  https://thriftysheet.com
+
+- **Planet Defence** — Small arcade game
   https://planet-defense.com
 
-- Colorshift – fast colour matching game  
+- **Colorshift** — Fast colour matching game
   https://colorshift.xyz
-
-- Thriftysheet – smart budgeting spreadsheet
-  https://thriftysheet.com/
 
 ---
 
 ## Open source
-- Captura — Open source screenshot app and API
+- **Captura** — Open source screenshot app and API
   https://github.com/Vheissu/captura
 
-- Hive payments Woo - Hive blockchain payments support for Woocommerce
+- **Slink** — Open source short link app built with Laravel
+  https://github.com/Vheissu/slink
+
+- **Hivevoice** — Invoicing on the Hive blockchain
+  https://github.com/Vheissu/hivevoice
+
+- **Hive Payments Woo** — WooCommerce support for Hive blockchain payments
   https://github.com/Vheissu/hive-payments-woo
 
-- ACF Versioned Content Field  
-  https://github.com/Vheissu/acf-versioned-content-field
+- **Aurelia 2 Testing Library** — Testing library for Aurelia 2
+  https://github.com/Vheissu/aurelia2-testing-library
 
-- ACF QR Code Field  
-  https://github.com/Vheissu/acf-qr-code-field
-
-- ACF Country Field  
-  https://github.com/Vheissu/acf-country-field
-
-- Aurelia 2 plugins and tooling  
+- **Aurelia 2 Plugins and Tooling**
   https://github.com/Vheissu/aurelia2-plugins
 
-- Au Rogue – Aurelia 1 to 2 migration CLI  
+- **Au Rogue** — Codemods for Aurelia 1 to Aurelia 2 conversions
   https://github.com/Vheissu/au-rogue
 
-- Beeline – Hive blockchain CLI  
+- **ACF Versioned Content Field**
+  https://github.com/Vheissu/acf-versioned-content-field
+
+- **ACF QR Code Field**
+  https://github.com/Vheissu/acf-qr-code-field
+
+- **ACF Country Field**
+  https://github.com/Vheissu/acf-country-field
+
+- **Beeline** — Hive blockchain CLI
   https://github.com/Vheissu/beeline
 
-- HTMS – JavaScript written with HTML like syntax  
+- **HTMS** — JavaScript written with HTML like syntax
   https://github.com/Vheissu/htms
 
 ---
 
 ## Stack
-Front end  
-Aurelia 2, React, Svelte, Vue, Web Components, TypeScript, Tailwind
+**Full stack:** Node.js, PHP, Python, TypeScript, REST APIs, PostgreSQL, MySQL
 
-Back end  
-Node.js, PHP, Python, REST APIs
+**Front end:** Aurelia 2, React, Svelte, Vue, Web Components, Tailwind
 
-Cloud  
-AWS, Azure, Firebase, Supabase
+**Mobile:** React Native (Android and iOS)
+
+**Cloud:** AWS, Azure, Firebase, Supabase
 
 ---
 
@@ -123,7 +137,7 @@ AWS, Azure, Firebase, Supabase
 - Bias toward shipping
 - Prefer boring solutions that last
 - Comfortable taking ownership when things are unclear
-- Optimize for long term sanity, not short term optics
+- Optimise for long term sanity, not short term optics
 
 ---
 
