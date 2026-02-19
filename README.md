@@ -2,7 +2,7 @@
 
 Full-stack engineer who ships end to end products. I work across front end, back end, databases, APIs, mobile and infrastructure, and I'm comfortable owning systems long after the first deploy. Core contributor to Aurelia, long time open source maintainer, and someone who thinks about systems, not just screens. I ❤️ open source a lot.
 
-I care about building software that survives real usage, not just demos.
+I care about building software that survives real usage, not just demos. No vibecoding here, just coding.
 
 ---
 
@@ -18,7 +18,7 @@ That usually means:
 - Making pragmatic technical calls instead of chasing trends
 - Choosing boring stable stacks over hype stacks, frameworks and libraries
 
-Available for senior full stack roles, product engineering, migrations, and systems that need an adult in the room.
+Available for senior full stack roles, front-end, product engineering, migrations, and systems that need an adult in the room.
 
 ---
 
@@ -39,6 +39,12 @@ Things I've built and shipped end to end. Some for clients, many for myself.
 
 - **Hive Predict** — Parimutuel prediction platform on the Hive blockchain
   https://hivepredict.app
+
+- **Hivett** — Blockchain automation events platform
+  https://hivett.app
+
+- **Hivedice** — Blockchain automation events platform
+  https://hivedice.com
 
 - **Hive Hand** — Blockchain Uno
   https://hivehand.app
@@ -123,7 +129,7 @@ Things I've built and shipped end to end. Some for clients, many for myself.
 ---
 
 ## Stack
-**Full stack:** Node.js, PHP, Python, TypeScript, REST APIs, PostgreSQL, MySQL
+**Full stack:** Node.js, PHP, Python, TypeScript, Rust, REST APIs, PostgreSQL, MySQL
 
 **Front end:** Aurelia 2, React, Svelte, Vue, Web Components, Tailwind
 
