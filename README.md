@@ -46,6 +46,7 @@ Things I've built and shipped. Some for clients, many for myself.
 I've been building on the Hive blockchain since 2018. These are the apps and games I've shipped on Hive.
 
 - [**Hive Predict**](https://hivepredict.app) — Parimutuel prediction markets
+- [**Hive Roulette**](https://hroulette.app) — Roulette on the blockchin
 - [**Hive Bounty**](https://hivebounty.com) — Micro bounty platform
 - [**Hivett**](https://hivett.app) — IFTTT-style blockchain automation
 - [**HiveHand**](https://hivehand.app) — Draw 4/Uno card game
