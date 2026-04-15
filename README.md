@@ -25,6 +25,7 @@ I work across front end, back end, databases, APIs, mobile and infrastructure. I
 Things I've built and shipped. Some for clients, many for myself.
 
 - [**DroolFinder**](https://droolfinder.com) — Dog collecting app for Android and iOS with unique sticker generation, social features and more
+- [**Portwhore**](https://portwhore.com/) — Manage ports on your Mac ([source](https://github.com/Vheissu/portwhore))
 - [**CortexPresets**](https://cortexpresets.com) — Quad Cortex guitar presets marketplace
 - [**Cortex Device List**](https://quadcortex.co) — Quad Cortex modeller database ([source](https://github.com/Vheissu/cortex-device-list))
 - [**Yawntales**](https://yawntales.com) — AI bedtime stories that parents actually use
