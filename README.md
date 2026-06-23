@@ -1,6 +1,6 @@
 # Dwayne Charrington
 
-Full-stack engineer. 15+ years building, shipping and maintaining web products end to end. Core contributor to the Aurelia framework and long-time open source maintainer.
+Full-stack engineer. 17+ years building, shipping and maintaining web products end to end. Core contributor to the Aurelia framework and long-time open source maintainer.
 
 I work across front end, back end, databases, APIs, mobile and infrastructure. I build things that survive real usage, and I stick around to maintain them after launch.
 
