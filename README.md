@@ -35,7 +35,6 @@ Things I've built and shipped. Some for clients, many for myself.
 - [**Doughmap**](https://doughmap.com) — Yearly expense tracker ([source](https://github.com/Vheissu/costmap))
 - [**TidyFork**](https://tidyfork.com) — Tooling for cleaning up large GitHub orgs
 - [**RegexBattle**](https://regexbattle.com) — Competitive regex game
-- [**Dadline**](https://dadline.app) — Task accountability via social shame
 - [**Thriftysheet**](https://thriftysheet.com) — Smart budgeting spreadsheet
 - [**Planet Defence**](https://planet-defense.com) — Arcade game
 - [**Colorshift**](https://colorshift.xyz) — Fast colour matching game
