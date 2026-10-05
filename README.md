@@ -1,6 +1,6 @@
 # Dwayne Charrington
 
-Full-stack engineer. 17+ years building, shipping and maintaining web products end to end. Core contributor to the Aurelia framework and long-time open source maintainer.
+Full-stack engineer. 18+ years building, shipping and maintaining web products end to end. Core contributor to the Aurelia framework and long-time open source maintainer.
 
 I work across front end, back end, databases, APIs, mobile and infrastructure. I build things that survive real usage, and I stick around to maintain them after launch.
 
@@ -10,11 +10,11 @@ I work across front end, back end, databases, APIs, mobile and infrastructure. I
 
 ## Stack
 
-**Full stack:** Node.js, PHP, Python, TypeScript, Rust, REST APIs, MongoDB, PostgreSQL, MySQL
+**Full stack:** Node.js, PHP, Python, TypeScript, .NET, Rust, REST APIs, MongoDB, PostgreSQL, MySQL
 
-**Front end:** Aurelia 2, React, Svelte, Vue, Web Components, Tailwind
+**Front end:** React, Svelte, Vue, Angular, Aurelia 2, Web Components, Tailwind
 
-**Mobile:** React Native (Android and iOS)
+**Mobile:** React Native (Android and iOS), Swift/Objective-C
 
 **Cloud:** AWS, Azure, Firebase, Supabase
 
@@ -25,15 +25,15 @@ I work across front end, back end, databases, APIs, mobile and infrastructure. I
 Things I've built and shipped. Some for clients, many for myself.
 
 - [**DroolFinder**](https://droolfinder.com) — Dog collecting app for Android and iOS with unique sticker generation, social features and more
+- [**Yardvertising**](https://yardvertising.com) — Hyperlocal advertising platform
+- [**TidyFork**](https://tidyfork.com) — Tooling for cleaning up large GitHub orgs
 - [**Portwhore**](https://portwhore.com/) — Manage ports on your Mac ([source](https://github.com/Vheissu/portwhore))
 - [**CortexPresets**](https://cortexpresets.com) — Quad Cortex guitar presets marketplace
 - [**Cortex Device List**](https://quadcortex.co) — Quad Cortex modeller database ([source](https://github.com/Vheissu/cortex-device-list))
 - [**Yawntales**](https://yawntales.com) — AI bedtime stories that parents actually use
 - [**Askbad**](https://askbad.com) — Deliberately bad advice, taken seriously
 - [**TryInk**](https://tryink.co) — Virtual tattoo try-on and design creation
-- [**Yardvertising**](https://yardvertising.com) — Hyperlocal advertising platform
 - [**Doughmap**](https://doughmap.com) — Yearly expense tracker ([source](https://github.com/Vheissu/costmap))
-- [**TidyFork**](https://tidyfork.com) — Tooling for cleaning up large GitHub orgs
 - [**RegexBattle**](https://regexbattle.com) — Competitive regex game
 - [**Thriftysheet**](https://thriftysheet.com) — Smart budgeting spreadsheet
 - [**Planet Defence**](https://planet-defense.com) — Arcade game
