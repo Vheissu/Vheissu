@@ -24,6 +24,9 @@ I work across front end, back end, databases, APIs, mobile and infrastructure. I
 
 Things I've built and shipped. Some for clients, many for myself.
 
+- [**Hive Predict**](https://hivepredict.app) — Parimutuel prediction markets
+- [**Tidewater for Three.js**](https://gettidewater.com) — Realistic water for Three.js apps, including buoyancy, lighting and more
+- [**Rangesearch for Wordpress**](https://wprangesearch.com/) — Better smarter search for Woocommerce powered Wordpress stores
 - [**DroolFinder**](https://droolfinder.com) — Dog collecting app for Android and iOS with unique sticker generation, social features and more
 - [**Yardvertising**](https://yardvertising.com) — Hyperlocal advertising platform
 - [**TidyFork**](https://tidyfork.com) — Tooling for cleaning up large GitHub orgs
@@ -45,7 +48,6 @@ Things I've built and shipped. Some for clients, many for myself.
 
 I've been building on the Hive blockchain since 2018. These are the apps and games I've shipped on Hive.
 
-- [**Hive Predict**](https://hivepredict.app) — Parimutuel prediction markets
 - [**Hive Roulette**](https://hroulette.app) — Roulette on the blockchin
 - [**Hive Bounty**](https://hivebounty.com) — Micro bounty platform
 - [**Hivett**](https://hivett.app) — IFTTT-style blockchain automation
