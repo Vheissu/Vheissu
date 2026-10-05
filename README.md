@@ -1,10 +1,10 @@
 # Dwayne Charrington
 
-Full-stack engineer. 18+ years building, shipping and maintaining web products end to end. Core contributor to the Aurelia framework and long-time open source maintainer.
+Full-stack engineer. 18+ years building, shipping and maintaining web products end to end. Core contributor to the Aurelia framework since 2015 and long-time open source maintainer.
 
 I work across front end, back end, databases, APIs, mobile and infrastructure. I build things that survive real usage, and I stick around to maintain them after launch.
 
-📫 dwaynecharrington@gmail.com
+📫 dwaynecharrington@gmail.com | blogging @ https://ilikekillnerds.com since 2010
 
 ---
 
@@ -26,21 +26,17 @@ Things I've built and shipped. Some for clients, many for myself.
 
 - [**Hive Predict**](https://hivepredict.app) — Parimutuel prediction markets
 - [**Tidewater for Three.js**](https://gettidewater.com) — Realistic water for Three.js apps, including buoyancy, lighting and more
+- [**Emerald Bayou**](https://vheissu.github.io/emerald-bayou/) — Open source bayou game inspired by GTA 6
 - [**Rangesearch for Wordpress**](https://wprangesearch.com/) — Better smarter search for Woocommerce powered Wordpress stores
 - [**DroolFinder**](https://droolfinder.com) — Dog collecting app for Android and iOS with unique sticker generation, social features and more
 - [**Yardvertising**](https://yardvertising.com) — Hyperlocal advertising platform
+- [**Stick Fighter**](https://stick-fighter-production.up.railway.app/) — Single and multiplayer stick fighting game
 - [**TidyFork**](https://tidyfork.com) — Tooling for cleaning up large GitHub orgs
 - [**Portwhore**](https://portwhore.com/) — Manage ports on your Mac ([source](https://github.com/Vheissu/portwhore))
 - [**CortexPresets**](https://cortexpresets.com) — Quad Cortex guitar presets marketplace
 - [**Cortex Device List**](https://quadcortex.co) — Quad Cortex modeller database ([source](https://github.com/Vheissu/cortex-device-list))
 - [**Yawntales**](https://yawntales.com) — AI bedtime stories that parents actually use
-- [**Askbad**](https://askbad.com) — Deliberately bad advice, taken seriously
-- [**TryInk**](https://tryink.co) — Virtual tattoo try-on and design creation
-- [**Doughmap**](https://doughmap.com) — Yearly expense tracker ([source](https://github.com/Vheissu/costmap))
 - [**RegexBattle**](https://regexbattle.com) — Competitive regex game
-- [**Thriftysheet**](https://thriftysheet.com) — Smart budgeting spreadsheet
-- [**Planet Defence**](https://planet-defense.com) — Arcade game
-- [**Colorshift**](https://colorshift.xyz) — Fast colour matching game
 
 ---
 
@@ -63,6 +59,8 @@ I've been building on the Hive blockchain since 2018. These are the apps and gam
 
 ## Open source
 
+- [**Aurelia 2 Testing Library**](https://github.com/Vheissu/aurelia2-testing-library) — Testing library for Aurelia 2
+- [**Aurelia 2 Plugins and Tooling**](https://github.com/Vheissu/aurelia2-plugins) — Collection of Aurelia 2 plugins
 - [**hive-rs**](https://github.com/Vheissu/hive-rs) — Rust client for the Hive blockchain
 - [**izone-cli**](https://github.com/Vheissu/izone-cli) — CLI and MCP server for controlling iZone air conditioners with LLMs
 - [**Captura**](https://github.com/Vheissu/captura) — Screenshot app and API
@@ -70,8 +68,6 @@ I've been building on the Hive blockchain since 2018. These are the apps and gam
 - [**Hivevoice**](https://github.com/Vheissu/hivevoice) — Invoicing on the Hive blockchain
 - [**Hive Payments Woo**](https://github.com/Vheissu/hive-payments-woo) — WooCommerce plugin for Hive payments
 - [**Beeline**](https://github.com/Vheissu/beeline) — Hive blockchain CLI
-- [**Aurelia 2 Testing Library**](https://github.com/Vheissu/aurelia2-testing-library) — Testing library for Aurelia 2
-- [**Aurelia 2 Plugins and Tooling**](https://github.com/Vheissu/aurelia2-plugins)
 - [**Au Rogue**](https://github.com/Vheissu/au-rogue) — Codemods for Aurelia 1 to 2 migrations
 - [**HTMS**](https://github.com/Vheissu/htms) — JavaScript written with HTML-like syntax
 - [**ACF Versioned Content Field**](https://github.com/Vheissu/acf-versioned-content-field)
