@@ -12,7 +12,7 @@ I work across front end, back end, databases, APIs, mobile and infrastructure. I
 
 **Full stack:** Node.js, PHP, Python, TypeScript, .NET, Rust, REST APIs, MongoDB, PostgreSQL, MySQL
 
-**Front end:** React, Svelte, Vue, Angular, Aurelia 2, Web Components, Tailwind
+**Front end:** React, Elm, Svelte, Vue, Angular, Aurelia 2, Web Components, Tailwind
 
 **Mobile:** React Native (Android and iOS), Swift/Objective-C
 
