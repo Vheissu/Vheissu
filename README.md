@@ -25,7 +25,7 @@ The full product list is further down.
 ## What I bring to a team
 
 - **End-to-end ownership.** Hand me a problem and I will scope it, build it, test it, ship it and support it. I am comfortable being the only engineer on something, or one of forty.
-- - **Applied AI.** LLM integrations, agentic workflows, classifiers, MCP servers, multimodal generation pipelines and agentic workflows inside real products, plus daily use of AI coding tools. I've even experimented training my own models.
+- **Applied AI.** LLM integrations, agentic workflows, classifiers, MCP servers, multimodal generation pipelines and agentic workflows inside real products, plus daily use of AI coding tools. I've even experimented training my own models.
 - **Frontend and technical leadership.** I have led frontend architecture on large enterprise applications: standards, code review, mentoring, incremental framework migrations and paying down technical debt without stopping the release train.
 - **Product and customer sense.** I talk to customers, clients and business owners directly. I run my own products, so I think about pricing, onboarding, support load and churn, not just the code. Having engineering chops but also being good with people means I go between both sides of the fence comfortable.
 - **Quality that holds up.** Unit, integration and end-to-end testing (Playwright), CI/CD, automated regression coverage. I like software that still works years after launch. I am very big on testing. I think there's no excuse not to test.
