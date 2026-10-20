@@ -4,7 +4,7 @@
 
 I take ideas from zero to production and keep them running. 18+ years of shipping software, a long list of products with real users and revenue, six published books, and a decade of open-source maintenance including core work on the [Aurelia](https://aurelia.io) framework since 2015.
 
-[Email](mailto:dwaynecharrington@gmail.com) · [Blog](https://ilikekillnerds.com) (writing since 2010) · [Books](https://leanpub.com/u/vheissu) · [LinkedIn](https://www.linkedin.com/in/dwaynecharrington)
+[Email](mailto:dwaynecharrington@gmail.com) · [Blog](https://ilikekillnerds.com) (writing since 2010) · [Books](https://leanpub.com/u/vheissu)
 
 ---
 
