@@ -25,17 +25,18 @@ The full product list is further down.
 ## What I bring to a team
 
 - **End-to-end ownership.** Hand me a problem and I will scope it, build it, test it, ship it and support it. I am comfortable being the only engineer on something, or one of forty.
-- **Frontend leadership.** I have led frontend architecture on large enterprise applications: standards, code review, mentoring, incremental framework migrations and paying down technical debt without stopping the release train.
-- **Product and customer sense.** I talk to customers, clients and business owners directly. I run my own products, so I think about pricing, onboarding, support load and churn, not just the code.
-- **Quality that holds up.** Unit, integration and end-to-end testing (Playwright), CI/CD, automated regression coverage. I like software that still works years after launch.
-- **Applied AI.** LLM integrations, classifiers, MCP servers, multimodal generation pipelines and agentic workflows inside real products, plus daily use of AI coding tools.
+- - **Applied AI.** LLM integrations, agentic workflows, classifiers, MCP servers, multimodal generation pipelines and agentic workflows inside real products, plus daily use of AI coding tools. I've even experimented training my own models.
+- **Frontend and technical leadership.** I have led frontend architecture on large enterprise applications: standards, code review, mentoring, incremental framework migrations and paying down technical debt without stopping the release train.
+- **Product and customer sense.** I talk to customers, clients and business owners directly. I run my own products, so I think about pricing, onboarding, support load and churn, not just the code. Having engineering chops but also being good with people means I go between both sides of the fence comfortable.
+- **Quality that holds up.** Unit, integration and end-to-end testing (Playwright), CI/CD, automated regression coverage. I like software that still works years after launch. I am very big on testing. I think there's no excuse not to test.
+- **A nerd for processes** Even in the era of AI you need to have good documentation and processes or AI just makes you ship buggy code faster, faily faster. I'm a nerd for processes and documentation.
 
 ## Technology
 
 | Area | Technologies |
 |---|---|
-| **Languages** | TypeScript, JavaScript, PHP, Python, Rust, C#, SQL |
-| **Frontend** | React, Aurelia 2, Svelte, Vue, Angular, Web Components, Tailwind CSS |
+| **Languages** | TypeScript, JavaScript, PHP, Python, Rust, C#, Java, SQL |
+| **Frontend** | React, Aurelia 2, Svelte, Vue, Angular, Elm, Web Components, Tailwind CSS |
 | **Backend** | Node.js, Laravel, .NET, REST, GraphQL, WordPress, WooCommerce |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Firebase, Supabase |
 | **Mobile** | React Native, Expo, Swift, iOS, Android |
@@ -63,6 +64,7 @@ I am not attached to a framework or language. The job is understanding the probl
 - [**DroolFinder**](https://droolfinder.com) - iOS and Android dog-collecting app with generated stickers and social features. Built on Google Cloud.
 - [**Yardvertising**](https://yardvertising.com) - Hyperlocal advertising platform (Laravel).
 - [**HivePredict**](https://hivepredict.app) - Blockchain prediction markets with parimutuel mechanics.
+- [**Presetbridge**](https://presetbridge.com) - A custom NDSP cloud integration to fill a gap where no official market or APIs existed.
 - [**CortexPresets**](https://cortexpresets.com) - Marketplace for Neural DSP Quad Cortex presets.
 - [**Cortex Device List**](https://quadcortex.co) - Community database of Quad Cortex models. [Source](https://github.com/Vheissu/cortex-device-list).
 
@@ -70,6 +72,7 @@ I am not attached to a framework or language. The job is understanding the probl
 
 - [**Emerald Bayou**](https://vheissu.github.io/emerald-bayou/) - Open-source open-world bayou game.
 - [**Stick Fighter**](https://stick-fighter-production.up.railway.app/) - Single and multiplayer stick fighting game.
+- [**Hit and Run web**](https://github.com/Vheissu/hit-and-run-web) - Decompiled and ported Simpson's: Hit and Run from Playstation 2, used Blender to modernise graphics
 - [**RegexBattle**](https://regexbattle.com) - Competitive regular expression game.
 
 ---
@@ -86,7 +89,7 @@ Core team member since 2015. Framework development, docs, plugins, tooling and c
 
 ### Libraries and tools
 
-- [**Helix Stadium app**](REPO_LINK) - Unofficial mobile companion app for Line 6 Helix Stadium.
+- [**Helix Stadium app**](https://github.com/Vheissu/helix-stadium-tools) - Unofficial mobile companion app for Line 6 Helix Stadium.
 - [**izone-cli**](https://github.com/Vheissu/izone-cli) - CLI and MCP server for controlling iZone air conditioners.
 - [**hive-rs**](https://github.com/Vheissu/hive-rs) - Rust client for the Hive blockchain.
 - [**Captura**](https://github.com/Vheissu/captura) - Screenshot application and API.
