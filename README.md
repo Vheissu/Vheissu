@@ -12,7 +12,7 @@ I take ideas from zero to production and keep them running. 18+ years of shippin
 
 Not demos. Products with users, money and consequences.
 
-- **[Helix Stadium mobile app](REPO_LINK)** - Built and released an unofficial iOS and Android companion app for Line 6 Helix Stadium before Line 6 / Yamaha shipped their own. Open source.
+- **[Helix Stadium mobile app](https://github.com/Vheissu/helix-stadium-tools)** - Built and released an unofficial iOS and Android companion app for Line 6 Helix Stadium before Line 6 / Yamaha shipped their own. Open source.
 - **news.net** - Large-scale WordPress multisite news network. Custom theme, automated wire feed ingestion, custom taxonomies and search, performance work under real traffic. The biggest WordPress build I have led.
 - **[HivePredict](https://hivepredict.app)** - Parimutuel prediction markets on the Hive blockchain. Has processed over 100,000 HIVE in real wagers and payouts, where a bug means losing other people's money.
 - **[YawnTales](https://yawntales.com)** - AI bedtime story platform with 25+ paying subscribers. LLM generation, content safety classification, generated narration and music, automated audio pipeline.
