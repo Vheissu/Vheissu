@@ -1,10 +1,10 @@
 # Dwayne Charrington
 
-**Senior full-stack engineer and frontend lead**
+**Senior software engineer and tech lead**
 
-I've spent 18+ years building and maintaining software: enterprise web applications, commercial developer tools, mobile apps and my own paid products. I take projects through architecture, implementation and release, then stay involved in support and operations.
+I've been building and shipping software for 18+ years. I've led frontend architecture on large enterprise applications and shipped commercial developer tools, desktop apps and mobile products. I like messy problems, getting stuck into a codebase, and seeing the thing through to production.
 
-I've been on the [Aurelia](https://aurelia.io) core team since 2015 and written six technical books. Based in Queensland, Australia, I've worked fully remotely for 8+ years.
+I'm based in Queensland, Australia, and have worked fully remotely for 8+ years. I've been on the [Aurelia](https://aurelia.io) core team since 2015 and written six technical books. After all this time, I still get a kick out of shipping something people actually use.
 
 [Email](mailto:dwaynecharrington@gmail.com) · [Blog](https://ilikekillnerds.com) · [Books](https://leanpub.com/u/vheissu)
 
@@ -12,21 +12,21 @@ I've been on the [Aurelia](https://aurelia.io) core team since 2015 and written 
 
 | Project | Work |
 | --- | --- |
-| news.net | Led my largest WordPress multisite build: a custom theme, automated wire feeds, taxonomies, search and performance work under live traffic. |
+| news.net | The biggest WordPress build I've led. A multisite news network with a custom theme, automated wire feeds, taxonomies, search and performance work under live traffic. |
 | [Query Anvil](https://queryanvil.com) | Database app for macOS, Windows and Linux. SQL and NoSQL support, read-only production connections and confirmation before writes. |
 | [Offset](https://rawoffset.com) | Memory editor and visual trainer builder for macOS and Windows. Live memory scanning, executable inspection, Lua scripting and standalone trainer exports. |
 | [Better Rich Text](https://betterrichtext.com) | Self-hosted TypeScript WYSIWYG editor with framework adapters, real-time collaboration, review tools and Word/PDF support. Sold on a one-time licence. |
-| [HivePredict](https://hivepredict.app) | Parimutuel prediction markets on Hive. Processed over 100,000 HIVE in wagers and payouts. |
+| [HivePredict](https://hivepredict.app) | Parimutuel prediction markets on Hive. Processed over 100,000 HIVE in wagers and payouts. A bug here can cost someone money. |
 | [YawnTales](https://yawntales.com) | AI bedtime stories with 25+ paying subscribers. Built the generation, safety classification, narration and music pipeline. |
 | [Tidewater for Three.js](https://gettidewater.com) | Commercial water rendering library with buoyancy, lighting and interactive effects. Makes sales each month without marketing. |
-| [Idlehours](https://idlehours.app) | Marketplace for cancelled and unfilled service appointments. Personally onboarded 30+ businesses. |
+| [Idlehours](https://idlehours.app) | Marketplace for cancelled and unfilled service appointments. I personally onboarded 30+ businesses. |
 
 ## Experience
 
-- Led frontend architecture on large enterprise applications, including code review, mentoring and incremental framework migrations alongside ongoing releases.
-- Owned delivery from scoping through deployment and support, both independently and within larger engineering teams. I work directly with customers and business owners on requirements, pricing, onboarding and support.
-- Built AI features into shipped products: LLM integrations, classifiers, MCP servers and multimodal generation pipelines. I use AI coding tools daily and have experimented with training my own models.
-- Use unit, integration and Playwright end-to-end tests, automated regression checks and CI/CD. I care about documentation and repeatable processes because maintaining software is a large part of the job.
+- I've led frontend architecture on large enterprise apps, guided framework migrations and mentored developers while keeping releases moving. I enjoy helping other people get better at this stuff. I'm happy to have my own ideas challenged too.
+- Hand me a problem and I'm comfortable owning it, from figuring out what needs building through to deployment and support. I've worked solo and in larger engineering teams, and I talk directly with customers and business owners about requirements, pricing and onboarding.
+- I'm all in on AI. I've built LLM integrations, classifiers, MCP servers and multimodal generation pipelines into shipped products. I use AI coding tools daily and have experimented with training my own models. I'm excited about what we can build with it.
+- I'm a testing nut. Unit, integration and Playwright end-to-end tests are part of how I work, along with regression coverage and CI/CD. I'm a nerd for good documentation and repeatable processes too.
 
 ## Open source
 
@@ -52,7 +52,7 @@ My work on [Aurelia](https://aurelia.io) since 2015 includes framework developme
 
 ## Writing
 
-I write about software at [I Like Kill Nerds](https://ilikekillnerds.com), where I've been publishing since 2010. My six books cover Rust, Aurelia and software development.
+I've been writing at [I Like Kill Nerds](https://ilikekillnerds.com) since 2010, about software, music gear and whatever else won't leave my head. I've also written six books on Rust, Aurelia and software development.
 
 <details>
 <summary>Books</summary>
@@ -127,4 +127,4 @@ Games: [Hive Roulette](https://hroulette.app) · [Hive Ships](https://hive-ships
 
 </details>
 
-[Get in touch](mailto:dwaynecharrington@gmail.com) about engineering roles or projects.
+[Get in touch](mailto:dwaynecharrington@gmail.com) about engineering and tech lead roles, or a project you'd like to talk through.
