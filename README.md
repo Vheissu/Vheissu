@@ -8,10 +8,11 @@ I take ideas from zero to production and keep them running. 18+ years of shippin
 
 ---
 
-## Things I have shipped
+## Shipped
 
-Not demos. Products with users, money and consequences.
-
+- **[Query Anvil](https://queryanvil.com)** - Desktop database app for macOS, Windows and Linux. Browse, query and edit SQL and NoSQL databases, with read-only production connections and confirmation before writes.
+- **[Offset](https://rawoffset.com)** - Memory editor and visual trainer builder for macOS and Windows. Scan and edit live process memory, inspect executables, script with Lua and export standalone trainers that run without Offset.
+- **[Better Rich Text](https://betterrichtext.com)** - Self-hosted WYSIWYG editor built in TypeScript, with adapters for major frontend frameworks. Real-time collaboration, comments, suggested edits, revision history, Word import/export and PDF are included in a one-time licence.
 - **[Helix Stadium mobile app](https://github.com/Vheissu/helix-stadium-tools)** - Built and released an unofficial iOS and Android companion app for Line 6 Helix Stadium before Line 6 / Yamaha shipped their own. Open source.
 - **news.net** - Large-scale WordPress multisite news network. Custom theme, automated wire feed ingestion, custom taxonomies and search, performance work under real traffic. The biggest WordPress build I have led.
 - **[HivePredict](https://hivepredict.app)** - Parimutuel prediction markets on the Hive blockchain. Has processed over 100,000 HIVE in real wagers and payouts, where a bug means losing other people's money.
@@ -52,6 +53,9 @@ I am not attached to a framework or language. The job is understanding the probl
 
 ### AI, tooling and infrastructure
 
+- [**Query Anvil**](https://queryanvil.com) - Desktop database app for macOS, Windows and Linux, with SQL and NoSQL support, read-only production connections and write confirmations.
+- [**Offset**](https://rawoffset.com) - Memory editor for macOS and Windows with Lua scripting, executable inspection and a visual builder for standalone trainers.
+- [**Better Rich Text**](https://betterrichtext.com) - Self-hosted TypeScript rich text editor with framework adapters, collaboration, review tools and Word/PDF support. One-time licence.
 - [**YawnTales**](https://yawntales.com) - AI bedtime stories with narration, music and safety classification.
 - [**Idlehours**](https://idlehours.app) - Last-minute services marketplace.
 - [**TidyFork**](https://tidyfork.com) - Audit, organise and clean up large GitHub organisations.
