@@ -8,22 +8,38 @@ I'm based in Queensland, Australia, and have worked fully remotely for 8+ years.
 
 [Email](mailto:dwaynecharrington@gmail.com) · [Blog](https://ilikekillnerds.com) · [Books](https://leanpub.com/u/vheissu)
 
+## Experience
+
+- I've led frontend architecture on large enterprise apps, guided framework migrations and mentored developers while keeping releases moving. I enjoy helping other people get better at this stuff. I'm happy to have my own ideas challenged too.
+- Hand me a problem and I'm comfortable owning it, from figuring out what needs building through to deployment and support. I've worked solo and in larger engineering teams, and I talk directly with customers and business owners about requirements, pricing and onboarding.
+- I'm all in on AI. I've built LLM integrations, classifiers, MCP servers and multimodal generation pipelines into shipped products. I use AI coding tools daily and have experimented with training my own models. I'm excited about what we can build with it.
+- I'm a testing nut. Unit, integration and Playwright end-to-end tests are part of how I work, along with regression coverage and CI/CD. I'm a nerd for good documentation and repeatable processes too.
+
 ## Selected work
 
-| Project | Work |
+### Developer tools
+
+Paid software I've built for other developers.
+
+| Product | Work |
 | --- | --- |
-| news.net | The biggest WordPress build I've led. A multisite news network with a custom theme, automated wire feeds, taxonomies, search and performance work under live traffic. |
 | [Query Anvil](https://queryanvil.com) | Database app for macOS, Windows and Linux. SQL and NoSQL support, read-only production connections and confirmation before writes. |
 | [Offset](https://rawoffset.com) | Memory editor and visual trainer builder for macOS and Windows. Live memory scanning, executable inspection, Lua scripting and standalone trainer exports. |
 | [Better Rich Text](https://betterrichtext.com) | Self-hosted TypeScript WYSIWYG editor with framework adapters, real-time collaboration, review tools and Word/PDF support. Sold on a one-time licence. |
 | [Tablin](https://tablin.dev) | Commercial TypeScript data grid with a headless controller, custom row and column virtualisation, typed records, validated editing and undo/redo. One-time developer licence. |
 | [Rowpen](https://rowpen.com) | Commercial TypeScript spreadsheet SDK with its own formula parser and calculation engine, a Canvas 2D renderer and a headless workbook runtime. Workbook editing, formatting, undo/redo and CSV export. |
+| [Tidewater for Three.js](https://gettidewater.com) | Commercial water rendering library with buoyancy, lighting and interactive effects. Makes sales each month without marketing. |
+
+### Platforms
+
+| Project | Work |
+| --- | --- |
+| [news.net](https://news.net/) | The biggest WordPress build I've led. A multisite news network with a custom theme, automated wire feeds, taxonomies, search and performance work under live traffic. |
 | [HivePredict](https://hivepredict.app) | Parimutuel prediction markets on Hive. Processed over 100,000 HIVE in wagers and payouts. A bug here can cost someone money. |
 | [YawnTales](https://yawntales.com) | AI bedtime stories with 25+ paying subscribers. Built the generation, safety classification, narration and music pipeline. |
-| [Tidewater for Three.js](https://gettidewater.com) | Commercial water rendering library with buoyancy, lighting and interactive effects. Makes sales each month without marketing. |
 | [Idlehours](https://idlehours.app) | Marketplace for cancelled and unfilled service appointments. I personally onboarded 30+ businesses. |
 
-## Mobile apps
+### Mobile apps
 
 | App | Work |
 | --- | --- |
@@ -33,13 +49,6 @@ I'm based in Queensland, Australia, and have worked fully remotely for 8+ years.
 | [Ballistic](https://apps.apple.com/us/app/ballistic/id6779568569) | A one-touch arcade game about dodging a ball that talks back. Powerups, haptics and Game Center leaderboards, built for quick runs and chasing a better time. |
 | [Cleared to Land](https://apps.apple.com/us/app/cleared-to-land/id6759543179) | An air traffic control game with hand-painted airfields and a 1950s travel-poster style. Route planes and helicopters, manage busy approaches and tackle daily challenges. |
 | [Trolley Curling](https://apps.apple.com/us/app/trolley-curling/id6781186631) | Sling shopping trolleys into bays, bank shots off cars and work around wind, awkward wheels and moving traffic. A physics game with Game Center achievements and leaderboards. |
-
-## Experience
-
-- I've led frontend architecture on large enterprise apps, guided framework migrations and mentored developers while keeping releases moving. I enjoy helping other people get better at this stuff. I'm happy to have my own ideas challenged too.
-- Hand me a problem and I'm comfortable owning it, from figuring out what needs building through to deployment and support. I've worked solo and in larger engineering teams, and I talk directly with customers and business owners about requirements, pricing and onboarding.
-- I'm all in on AI. I've built LLM integrations, classifiers, MCP servers and multimodal generation pipelines into shipped products. I use AI coding tools daily and have experimented with training my own models. I'm excited about what we can build with it.
-- I'm a testing nut. Unit, integration and Playwright end-to-end tests are part of how I work, along with regression coverage and CI/CD. I'm a nerd for good documentation and repeatable processes too.
 
 ## Open source
 
