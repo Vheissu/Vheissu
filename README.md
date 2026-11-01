@@ -21,14 +21,16 @@ I'm based in Queensland, Australia, and have worked fully remotely for 8+ years.
 | [Tidewater for Three.js](https://gettidewater.com) | Commercial water rendering library with buoyancy, lighting and interactive effects. Makes sales each month without marketing. |
 | [Idlehours](https://idlehours.app) | Marketplace for cancelled and unfilled service appointments. I personally onboarded 30+ businesses. |
 
-## iOS apps
+## Mobile apps
 
 | App | Work |
 | --- | --- |
+| [DroolFinder](https://droolfinder.com) | Turns dog walks into a collecting game on iOS and Android. Photograph dogs, identify breeds and build a Dogdex of generated stickers, with challenges and a social feed. [App Store](https://apps.apple.com/us/app/droolfinder/id6757730040) · [Google Play](https://play.google.com/store/apps/details?id=com.beggars.droolfinder) |
 | [Calm the Skies](https://apps.apple.com/us/app/calm-the-skies/id6827905376) | An offline companion for nervous flyers, with guided breathing, grounding exercises, phone-motion visualisation and a guide to common flight sounds and sensations. |
 | [Coach Nash](https://apps.apple.com/us/app/coach-nash/id6797340772) | Teaches musicians the Nashville Number System through short lessons, ear training, chord drills and playable instruments. Works offline, with progress tracking and a one-time Pro unlock. |
 | [Ballistic](https://apps.apple.com/us/app/ballistic/id6779568569) | A one-touch arcade game about dodging a ball that talks back. Powerups, haptics and Game Center leaderboards, built for quick runs and chasing a better time. |
 | [Cleared to Land](https://apps.apple.com/us/app/cleared-to-land/id6759543179) | An air traffic control game with hand-painted airfields and a 1950s travel-poster style. Route planes and helicopters, manage busy approaches and tackle daily challenges. |
+| [Trolley Curling](https://apps.apple.com/us/app/trolley-curling/id6781186631) | Sling shopping trolleys into bays, bank shots off cars and work around wind, awkward wheels and moving traffic. A physics game with Game Center achievements and leaderboards. |
 
 ## Experience
 
@@ -90,7 +92,6 @@ Six books on [Leanpub](https://leanpub.com/u/vheissu):
 
 ### Web and mobile
 
-- [**DroolFinder**](https://droolfinder.com) - iOS and Android dog-collecting app with generated stickers and social features. Built on Google Cloud.
 - [**Yardvertising**](https://yardvertising.com) - Hyperlocal advertising platform (Laravel).
 - [**Presetbridge**](https://presetbridge.com) - A custom NDSP cloud integration to fill a gap where no official market or APIs existed.
 - [**CortexPresets**](https://cortexpresets.com) - Marketplace for Neural DSP Quad Cortex presets.
