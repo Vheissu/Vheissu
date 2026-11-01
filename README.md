@@ -2,18 +2,27 @@
 
 **Senior software engineer and tech lead**
 
-I've been building and shipping software for 18+ years. I've led frontend architecture on large enterprise applications and shipped commercial developer tools, desktop apps and mobile products. I like messy problems, getting stuck into a codebase, and seeing the thing through to production.
+I'm a senior software engineer and hands-on tech lead with 18+ years of experience. My work spans enterprise applications, commercial developer tools and mobile apps. I've led frontend architecture, guided framework migrations and mentored developers, while staying involved in the code, testing, releases and support.
 
-I'm based in Queensland, Australia, and have worked fully remotely for 8+ years. I've been on the [Aurelia](https://aurelia.io) core team since 2015 and written six technical books. After all this time, I still get a kick out of shipping something people actually use.
+I've been on the [Aurelia](https://aurelia.io) core team since 2015 and written six technical books. I'm based in Queensland, Australia, and have worked fully remotely for 8+ years. I like messy problems and still get a kick out of shipping something people actually use.
 
 [Email](mailto:dwaynecharrington@gmail.com) · [Blog](https://ilikekillnerds.com) · [Books](https://leanpub.com/u/vheissu)
 
 ## Experience
 
-- I've led frontend architecture on large enterprise apps, guided framework migrations and mentored developers while keeping releases moving. I enjoy helping other people get better at this stuff. I'm happy to have my own ideas challenged too.
-- Hand me a problem and I'm comfortable owning it, from figuring out what needs building through to deployment and support. I've worked solo and in larger engineering teams, and I talk directly with customers and business owners about requirements, pricing and onboarding.
-- I'm all in on AI. I've built LLM integrations, classifiers, MCP servers and multimodal generation pipelines into shipped products. I use AI coding tools daily and have experimented with training my own models. I'm excited about what we can build with it.
-- I'm a testing nut. Unit, integration and Playwright end-to-end tests are part of how I work, along with regression coverage and CI/CD. I'm a nerd for good documentation and repeatable processes too.
+- **Technical leadership.** I've led frontend architecture, code reviews and framework migrations on large enterprise apps, and mentored developers along the way. I enjoy helping people get better at this stuff, and I'm happy to have my own ideas challenged.
+- **Delivery.** Hand me a problem and I'm comfortable owning it, from scoping and architecture through implementation, release and support. I've worked solo and in larger engineering teams, and talk directly with customers and business owners about requirements, pricing and onboarding.
+- **Quality.** I'm a testing nut. Unit, integration and Playwright end-to-end tests, regression coverage and CI/CD are part of how I work. I'm a nerd for good documentation and repeatable processes too.
+- **Applied AI.** I'm all in on AI and use it daily. I've shipped LLM integrations, classifiers, MCP servers and multimodal generation pipelines, and experimented with training my own models.
+
+## Open source
+
+My work on [Aurelia](https://aurelia.io) since 2015 includes framework development, documentation, plugins, tooling and community support.
+
+- [Helix Stadium app](https://github.com/Vheissu/helix-stadium-tools): built and released an unofficial iOS and Android companion for Line 6 Helix Stadium before Line 6 / Yamaha released their own. Open source.
+- [Au Rogue](https://github.com/Vheissu/au-rogue): codemods for Aurelia 1 to Aurelia 2 migrations.
+- [Aurelia 2 Testing Library](https://github.com/Vheissu/aurelia2-testing-library): testing utilities for Aurelia 2.
+- [Aurelia 2 Plugins and Tooling](https://github.com/Vheissu/aurelia2-plugins): plugins, integrations and development utilities.
 
 ## Selected work
 
@@ -49,15 +58,6 @@ Paid software I've built for other developers.
 | [Ballistic](https://apps.apple.com/us/app/ballistic/id6779568569) | A one-touch arcade game about dodging a ball that talks back. Powerups, haptics and Game Center leaderboards, built for quick runs and chasing a better time. |
 | [Cleared to Land](https://apps.apple.com/us/app/cleared-to-land/id6759543179) | An air traffic control game with hand-painted airfields and a 1950s travel-poster style. Route planes and helicopters, manage busy approaches and tackle daily challenges. |
 | [Trolley Curling](https://apps.apple.com/us/app/trolley-curling/id6781186631) | Sling shopping trolleys into bays, bank shots off cars and work around wind, awkward wheels and moving traffic. A physics game with Game Center achievements and leaderboards. |
-
-## Open source
-
-My work on [Aurelia](https://aurelia.io) since 2015 includes framework development, documentation, plugins, tooling and community support.
-
-- [Helix Stadium app](https://github.com/Vheissu/helix-stadium-tools): built and released an unofficial iOS and Android companion for Line 6 Helix Stadium before Line 6 / Yamaha released their own. Open source.
-- [Au Rogue](https://github.com/Vheissu/au-rogue): codemods for Aurelia 1 to Aurelia 2 migrations.
-- [Aurelia 2 Testing Library](https://github.com/Vheissu/aurelia2-testing-library): testing utilities for Aurelia 2.
-- [Aurelia 2 Plugins and Tooling](https://github.com/Vheissu/aurelia2-plugins): plugins, integrations and development utilities.
 
 ## Technology
 
