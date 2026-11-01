@@ -11,7 +11,7 @@ I've been on the [Aurelia](https://aurelia.io) core team since 2015 and written 
 ## Experience
 
 - **Full-stack engineering.** I build backend services, APIs and integrations with Node.js, PHP/Laravel and .NET, work with SQL and document databases, and build the frontend that sits on top.
-- **Technical leadership.** I've led frontend architecture, code reviews and framework migrations on large enterprise apps, and mentored developers along the way. I enjoy helping people get better at this stuff, and I'm happy to have my own ideas challenged.
+- **Technical leadership.** I've led backend, frontend and full-stack work, including architecture, code reviews, migrations and delivery, and mentored developers along the way. I enjoy helping people get better at this stuff, and I'm happy to have my own ideas challenged.
 - **Delivery.** Hand me a problem and I'm comfortable owning it, from scoping and architecture through implementation, release and support. I've worked solo and in larger engineering teams, and talk directly with customers and business owners about requirements, pricing and onboarding.
 - **Quality.** I'm a testing nut. Unit, integration and Playwright end-to-end tests, regression coverage and CI/CD are part of how I work. I'm a nerd for good documentation and repeatable processes too.
 - **Applied AI.** I'm all in on AI and use it daily. I've shipped LLM integrations, classifiers, MCP servers and multimodal generation pipelines, and experimented with training my own models.
