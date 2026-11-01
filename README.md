@@ -2,7 +2,7 @@
 
 **Senior software engineer and tech lead**
 
-I'm a senior software engineer and hands-on tech lead with 18+ years of experience. My work spans enterprise applications, commercial developer tools and mobile apps. I've led frontend architecture, guided framework migrations and mentored developers, while staying involved in the code, testing, releases and support.
+I'm a senior software engineer and hands-on tech lead with 18+ years across backend, frontend and full-stack development. I build APIs and integrations, work with databases, and deliver enterprise applications, developer tools and mobile apps. I've led technical delivery, guided framework migrations and mentored developers, while staying involved in the code, testing, releases and support.
 
 I've been on the [Aurelia](https://aurelia.io) core team since 2015 and written six technical books. I'm based in Queensland, Australia, and have worked fully remotely for 8+ years. I like messy problems and still get a kick out of shipping something people actually use.
 
@@ -10,6 +10,7 @@ I've been on the [Aurelia](https://aurelia.io) core team since 2015 and written 
 
 ## Experience
 
+- **Full-stack engineering.** I build backend services, APIs and integrations with Node.js, PHP/Laravel and .NET, work with SQL and document databases, and build the frontend that sits on top.
 - **Technical leadership.** I've led frontend architecture, code reviews and framework migrations on large enterprise apps, and mentored developers along the way. I enjoy helping people get better at this stuff, and I'm happy to have my own ideas challenged.
 - **Delivery.** Hand me a problem and I'm comfortable owning it, from scoping and architecture through implementation, release and support. I've worked solo and in larger engineering teams, and talk directly with customers and business owners about requirements, pricing and onboarding.
 - **Quality.** I'm a testing nut. Unit, integration and Playwright end-to-end tests, regression coverage and CI/CD are part of how I work. I'm a nerd for good documentation and repeatable processes too.
@@ -64,11 +65,11 @@ Paid software I've built for other developers.
 | Area | Technologies |
 |---|---|
 | Languages | TypeScript, JavaScript, PHP, Python, Rust, C#, Java, SQL |
-| Frontend | React, Aurelia 2, Svelte, Vue, Angular, Elm, Web Components, Tailwind CSS |
 | Backend | Node.js, Laravel, .NET, REST, GraphQL, WordPress, WooCommerce |
 | Databases | PostgreSQL, MySQL, MongoDB, Firebase, Supabase |
-| Mobile | React Native, Expo, Swift, iOS, Android |
+| Frontend | React, Aurelia 2, Svelte, Vue, Angular, Elm, Web Components, Tailwind CSS |
 | Cloud | AWS, Azure, Google Cloud, Railway, CI/CD |
+| Mobile | React Native, Expo, Swift, iOS, Android |
 | AI | LLM APIs, AWS Bedrock, Google Vertex AI, classifiers, MCP, audio and content generation pipelines |
 | Testing | Playwright, unit, integration and end-to-end testing |
 
