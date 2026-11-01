@@ -16,6 +16,8 @@ I'm based in Queensland, Australia, and have worked fully remotely for 8+ years.
 | [Query Anvil](https://queryanvil.com) | Database app for macOS, Windows and Linux. SQL and NoSQL support, read-only production connections and confirmation before writes. |
 | [Offset](https://rawoffset.com) | Memory editor and visual trainer builder for macOS and Windows. Live memory scanning, executable inspection, Lua scripting and standalone trainer exports. |
 | [Better Rich Text](https://betterrichtext.com) | Self-hosted TypeScript WYSIWYG editor with framework adapters, real-time collaboration, review tools and Word/PDF support. Sold on a one-time licence. |
+| [Tablin](https://tablin.dev) | Commercial TypeScript data grid with a headless controller, custom row and column virtualisation, typed records, validated editing and undo/redo. One-time developer licence. |
+| [Rowpen](https://rowpen.com) | Commercial TypeScript spreadsheet SDK with its own formula parser and calculation engine, a Canvas 2D renderer and a headless workbook runtime. Workbook editing, formatting, undo/redo and CSV export. |
 | [HivePredict](https://hivepredict.app) | Parimutuel prediction markets on Hive. Processed over 100,000 HIVE in wagers and payouts. A bug here can cost someone money. |
 | [YawnTales](https://yawntales.com) | AI bedtime stories with 25+ paying subscribers. Built the generation, safety classification, narration and music pipeline. |
 | [Tidewater for Three.js](https://gettidewater.com) | Commercial water rendering library with buoyancy, lighting and interactive effects. Makes sales each month without marketing. |
