@@ -21,6 +21,15 @@ I'm based in Queensland, Australia, and have worked fully remotely for 8+ years.
 | [Tidewater for Three.js](https://gettidewater.com) | Commercial water rendering library with buoyancy, lighting and interactive effects. Makes sales each month without marketing. |
 | [Idlehours](https://idlehours.app) | Marketplace for cancelled and unfilled service appointments. I personally onboarded 30+ businesses. |
 
+## iOS apps
+
+| App | Work |
+| --- | --- |
+| [Calm the Skies](https://apps.apple.com/us/app/calm-the-skies/id6827905376) | An offline companion for nervous flyers, with guided breathing, grounding exercises, phone-motion visualisation and a guide to common flight sounds and sensations. |
+| [Coach Nash](https://apps.apple.com/us/app/coach-nash/id6797340772) | Teaches musicians the Nashville Number System through short lessons, ear training, chord drills and playable instruments. Works offline, with progress tracking and a one-time Pro unlock. |
+| [Ballistic](https://apps.apple.com/us/app/ballistic/id6779568569) | A one-touch arcade game about dodging a ball that talks back. Powerups, haptics and Game Center leaderboards, built for quick runs and chasing a better time. |
+| [Cleared to Land](https://apps.apple.com/us/app/cleared-to-land/id6759543179) | An air traffic control game with hand-painted airfields and a 1950s travel-poster style. Route planes and helicopters, manage busy approaches and tackle daily challenges. |
+
 ## Experience
 
 - I've led frontend architecture on large enterprise apps, guided framework migrations and mentored developers while keeping releases moving. I enjoy helping other people get better at this stuff. I'm happy to have my own ideas challenged too.
