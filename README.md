@@ -40,6 +40,12 @@ Paid software I've built for other developers.
 | [Rowpen](https://rowpen.com) | Commercial TypeScript spreadsheet SDK with its own formula parser and calculation engine, a Canvas 2D renderer and a headless workbook runtime. Workbook editing, formatting, undo/redo and CSV export. |
 | [Tidewater for Three.js](https://gettidewater.com) | Commercial water rendering library with buoyancy, lighting and interactive effects. Makes sales each month without marketing. |
 
+### Mac apps
+
+| App | Work |
+| --- | --- |
+| [Shortlist](https://makeshortlist.com/) | Native Mac app for résumés, academic CVs and matching cover letters. Live page layout and PDF export, local ATS scoring and job matching, with optional AI review using your own API key. |
+
 ### Platforms
 
 | Project | Work |
