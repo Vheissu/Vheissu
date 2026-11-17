@@ -20,6 +20,7 @@ I've been on the [Aurelia](https://aurelia.io) core team since 2015 and written 
 
 My work on [Aurelia](https://aurelia.io) since 2015 includes framework development, documentation, plugins, tooling and community support.
 
+- [Peel Studio](https://github.com/Vheissu/peel-studio): my FL Studio-inspired music workstation for macOS, Windows and Linux, built in Rust with a wgpu interface and lock-free audio engine. Pattern sequencing, piano roll, mixing, automation and an MCP server.
 - [Helix Stadium app](https://github.com/Vheissu/helix-stadium-tools): built and released an unofficial iOS and Android companion for Line 6 Helix Stadium before Line 6 / Yamaha released their own. Open source.
 - [Au Rogue](https://github.com/Vheissu/au-rogue): codemods for Aurelia 1 to Aurelia 2 migrations.
 - [Aurelia 2 Testing Library](https://github.com/Vheissu/aurelia2-testing-library): testing utilities for Aurelia 2.
